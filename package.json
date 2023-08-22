@@ -1,0 +1,23 @@
+{
+  "name": "reto_3_automationtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatyajh/reto_3_automationTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatyajh/reto_3_automationTesting/issues"
+  },
+  "homepage": "https://github.com/tatyajh/reto_3_automationTesting#readme",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
